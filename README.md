@@ -1,4 +1,4 @@
-# HARVESTIFY 🌿
+🌿
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
 
@@ -84,7 +84,7 @@ Note that, for now it only supports following crops
 - Clone the complete project with `git clone https://github.com/Gladiator07/Harvestify.git` or you can just download the code and unzip it
 - **Note:** The master branch doesn't have the updated code used for deployment, to download the updated code used for deployment you can use the following command
   ```
-  ❯ git clone -b deploy https://github.com/Gladiator07/Harvestify.git 
+  ❯
   ```
 - `deploy` branch has only the code required for deploying the app (rest of the code that was used for training the models, data preparation can be accessed on `master` branch)
 - It is highly recommended to clone the deploy branch for running the project locally (the further steps apply only if you have the deploy branch cloned)
